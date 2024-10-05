@@ -2,13 +2,13 @@
 
 Это коллекция шаблонов файлов [`.gitignore`][man] на Dvurechensky Git.
 Мы используем этот список для заполнения списка шаблонов `.gitignore`, доступного
-в интерфейсе GitHub.com при создании новых репозиториев и файлов.
+в интерфейсе dvurechensky.pro при создании новых репозиториев и файлов.
 
 Для получения дополнительной информации о том, как работают файлы `.gitignore` и как их использовать,
 можно начать со следующих ресурсов:
 
 - Глава [Ignoring Files][глава] книги [Pro Git][progit].
-- Статья [Ignoring Files][help] на сайте помощи GitHub.
+- Статья [Ignoring Files][help] на сайте помощи Dvurechensky Git.
 - Страница руководства [gitignore(5)][man].
 
 [man]: http://git-scm.com/docs/gitignore
