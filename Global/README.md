@@ -1,3 +1,5 @@
+<p align="center">✨Dvurechensky✨</p>
+
 ## Globally Useful gitignores
 
 This directory contains globally useful gitignores,
@@ -8,3 +10,5 @@ For more on global gitignores:
 
 And a good blog post about 'em:
 <http://augustl.com/blog/2009/global_gitignores>
+
+<p align="center">✨Dvurechensky✨</p>

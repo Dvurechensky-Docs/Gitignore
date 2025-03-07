@@ -1,3 +1,5 @@
+<p align="center">✨Dvurechensky✨</p>
+
 # Коллекция шаблонов `.gitignore`.
 
 Это коллекция шаблонов файлов [`.gitignore`][man] на Dvurechensky Git.
@@ -153,3 +155,5 @@ ExportedFiles.xml
 ## Лицензия
 
 [CC0-1.0](./LICENSE).
+
+<p align="center">✨Dvurechensky✨</p>
