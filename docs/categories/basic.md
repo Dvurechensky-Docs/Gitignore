@@ -16,280 +16,280 @@ tags:
 
 ## Языки программирования
 
-- [Actionscript.gitignore](../../Basic/Actionscript.gitignore)
+- [Actionscript.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Actionscript.gitignore)
   - **ActionScript** — язык программирования для платформы Adobe Flash и Flex.
-- [Ada.gitignore](../../Basic/Ada.gitignore)
+- [Ada.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Ada.gitignore)
   - **Ada** — язык с сильной типизацией, применяемый в системах реального времени и авиации.
-- [Agda.gitignore](../../Basic/Agda.gitignore)
+- [Agda.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Agda.gitignore)
   - **Agda** — функциональный язык программирования и система проверки доказательств.
-- [C++.gitignore](../../Basic/C++.gitignore)
+- [C++.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/C++.gitignore)
   - **C++** — объектно-ориентированный язык общего назначения, расширение C.
-- [C.gitignore](../../Basic/C.gitignore)
+- [C.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/C.gitignore)
   - **C** — процедурный язык программирования, часто используемый для системного ПО.
-- [Clojure.gitignore](../../Basic/Clojure.gitignore)
+- [Clojure.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Clojure.gitignore)
   - **Clojure** — функциональный язык на платформе JVM с поддержкой Lisp-подобного синтаксиса.
-- [CommonLisp.gitignore](../../Basic/CommonLisp.gitignore)
+- [CommonLisp.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/CommonLisp.gitignore)
   - **Common Lisp** — диалект Lisp для общего программирования и AI.
-- [CUDA.gitignore](../../Basic/CUDA.gitignore)
+- [CUDA.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/CUDA.gitignore)
   - **CUDA** — язык и платформа для параллельных вычислений на GPU от NVIDIA.
-- [D.gitignore](../../Basic/D.gitignore)
+- [D.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/D.gitignore)
   - **D** — язык общего назначения с упором на производительность и современный синтаксис.
-- [Dart.gitignore](../../Basic/Dart.gitignore)
+- [Dart.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Dart.gitignore)
   - **Dart** — язык от Google для фронтенда, веба и мобильных приложений (Flutter).
-- [Delphi.gitignore](../../Basic/Delphi.gitignore)
+- [Delphi.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Delphi.gitignore)
   - **Delphi** — объектно-ориентированный язык для Windows и RAD-разработки.
-- [DM.gitignore](../../Basic/DM.gitignore)
+- [DM.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/DM.gitignore)
   - **DM (Dream Maker)** — язык для разработки игр на движке BYOND.
-- [Elisp.gitignore](../../Basic/Elisp.gitignore)
+- [Elisp.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Elisp.gitignore)
   - **Emacs Lisp** — язык расширений для текстового редактора Emacs.
-- [Elixir.gitignore](../../Basic/Elixir.gitignore)
+- [Elixir.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Elixir.gitignore)
   - **Elixir** — функциональный язык для распределённых и масштабируемых приложений на платформе Erlang.
-- [Elm.gitignore](../../Basic/Elm.gitignore)
+- [Elm.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Elm.gitignore)
   - **Elm** — функциональный язык для безопасного фронтенд-разработки на JavaScript.
-- [Erlang.gitignore](../../Basic/Erlang.gitignore)
+- [Erlang.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Erlang.gitignore)
   - **Erlang** — язык для высоконадежных распределённых систем и телекоммуникаций.
-- [Fortran.gitignore](../../Basic/Fortran.gitignore)
+- [Fortran.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Fortran.gitignore)
   - **Fortran** — язык программирования для научных и инженерных вычислений.
-- [Idris.gitignore](../../Basic/Idris.gitignore)
+- [Idris.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Idris.gitignore)
   - **Idris** — функциональный язык с зависимыми типами для безопасного программирования.
-- [CSharp.gitignore](../../Basic/CSharp.gitignore)
+- [CSharp.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/CSharp.gitignore)
   - **C#** — объектно-ориентированный язык на платформе .NET для приложений различного типа.
-- [Coq.gitignore](../../Basic/Coq.gitignore)
+- [Coq.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Coq.gitignore)
   - **Coq** — язык и среда для формальной верификации программ и доказательств.
-- [IGORPro.gitignore](../../Basic/IGORPro.gitignore)
+- [IGORPro.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/IGORPro.gitignore)
   - **IGOR Pro** — язык и среда для научных вычислений и анализа данных.
-- [Fancy.gitignore](../../Basic/Fancy.gitignore)
+- [Fancy.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Fancy.gitignore)
   - **Fancy** — экспериментальный язык программирования с поддержкой объектно-ориентированной и функциональной парадигмы.
-- [Java.gitignore](../../Basic/Java.gitignore)
+- [Java.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Java.gitignore)
   - **Java** — объектно-ориентированный язык для платформы JVM, кроссплатформенный.
-- [Julia.gitignore](../../Basic/Julia.gitignore)
+- [Julia.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Julia.gitignore)
   - **Julia** — язык для высокопроизводительных численных и научных вычислений.
-- [Kotlin.gitignore](../../Basic/Kotlin.gitignore)
+- [Kotlin.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Kotlin.gitignore)
   - **Kotlin** — современный язык для JVM, Android и мультиплатформенной разработки.
-- [Lua.gitignore](../../Basic/Lua.gitignore)
+- [Lua.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Lua.gitignore)
   - **Lua** — лёгкий скриптовый язык для встроенных систем и игр.
-- [Mercury.gitignore](../../Basic/Mercury.gitignore)
+- [Mercury.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Mercury.gitignore)
   - **Mercury** — логико-функциональный язык программирования с сильной типизацией.
-- [Nim.gitignore](../../Basic/Nim.gitignore)
+- [Nim.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Nim.gitignore)
   - **Nim** — компилируемый язык с синтаксисом, похожим на Python, для производительных приложений.
-- [Objective-C.gitignore](../../Basic/Objective-C.gitignore)
+- [Objective-C.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Objective-C.gitignore)
   - **Objective-C** — объектно-ориентированный язык для разработки на macOS и iOS.
-- [OCaml.gitignore](../../Basic/OCaml.gitignore)
+- [OCaml.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/OCaml.gitignore)
   - **OCaml** — функциональный язык с сильной типизацией и поддержкой объектно-ориентированного программирования.
-- [Opa.gitignore](../../Basic/Opa.gitignore)
+- [Opa.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Opa.gitignore)
   - **Opa** — язык для веб-разработки с интегрированным серверным и клиентским кодом.
-- [Perl.gitignore](../../Basic/Perl.gitignore)
+- [Perl.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Perl.gitignore)
   - **Perl** — скриптовый язык для текстовой обработки, системного администрирования и веба.
-- [Python.gitignore](../../Basic/Python.gitignore)
+- [Python.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Python.gitignore)
   - **Python** — высокоуровневый язык с простой синтаксисом для общего программирования и научных задач.
-- [R.gitignore](../../Basic/R.gitignore)
+- [R.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/R.gitignore)
   - **R** — язык и среда для статистической обработки и анализа данных.
-- [Racket.gitignore](../../Basic/Racket.gitignore)
+- [Racket.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Racket.gitignore)
   - **Racket** — диалект Lisp для обучения, экспериментов и функционального программирования.
-- [Raku.gitignore](../../Basic/Raku.gitignore)
+- [Raku.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Raku.gitignore)
   - **Raku** — современный язык, развившийся из Perl, с расширенными функциональными возможностями.
-- [ReScript.gitignore](../../Basic/ReScript.gitignore)
+- [ReScript.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/ReScript.gitignore)
   - **ReScript** — язык для фронтенд-разработки, компилируемый в JavaScript.
-- [Ruby.gitignore](../../Basic/Ruby.gitignore)
+- [Ruby.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Ruby.gitignore)
   - **Ruby** — объектно-ориентированный язык с акцентом на простоту и продуктивность.
-- [Rust.gitignore](../../Basic/Rust.gitignore)
+- [Rust.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Rust.gitignore)
   - **Rust** — системный язык программирования с безопасностью памяти и высокой производительностью.
-- [Scala.gitignore](../../Basic/Scala.gitignore)
+- [Scala.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Scala.gitignore)
   - **Scala** — язык JVM с поддержкой объектно-ориентированного и функционального программирования.
-- [Scheme.gitignore](../../Basic/Scheme.gitignore)
+- [Scheme.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Scheme.gitignore)
   - **Scheme** — минималистский диалект Lisp для обучения и функционального программирования.
-- [Smalltalk.gitignore](../../Basic/Smalltalk.gitignore)
+- [Smalltalk.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Smalltalk.gitignore)
   - **Smalltalk** — объектно-ориентированный язык с полностью динамической средой.
-- [Swift.gitignore](../../Basic/Swift.gitignore)
+- [Swift.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Swift.gitignore)
   - **Swift** — язык для разработки под macOS и iOS с безопасным и современным синтаксисом.
-- [Zig.gitignore](../../Basic/Zig.gitignore)
+- [Zig.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Zig.gitignore)
   - **Zig** — системный язык для высокой производительности и контроля памяти.
-- [Xojo.gitignore](../../Basic/Xojo.gitignore)
+- [Xojo.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Xojo.gitignore)
   - **Xojo** — кроссплатформенный RAD-язык для быстрого создания приложений.
 
 ## Фреймворки и библиотеки
 
-- [AL.gitignore](../../Basic/AL.gitignore)
+- [AL.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/AL.gitignore)
   - **AL** — язык и среда разработки для Microsoft Dynamics 365 Business Central.
-- [Android.gitignore](../../Basic/Android.gitignore)
+- [Android.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Android.gitignore)
   - **Android** — платформа и фреймворк для создания мобильных приложений на Java/Kotlin.
-- [AppceleratorTitanium.gitignore](../../Basic/AppceleratorTitanium.gitignore)
+- [AppceleratorTitanium.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/AppceleratorTitanium.gitignore)
   - **Appcelerator Titanium** — кроссплатформенный фреймворк для мобильной разработки на JavaScript.
-- [AppEngine.gitignore](../../Basic/AppEngine.gitignore)
+- [AppEngine.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/AppEngine.gitignore)
   - **Google App Engine** — облачная платформа для запуска веб-приложений без управления инфраструктурой.
-- [ArchLinuxPackages.gitignore](../../Basic/ArchLinuxPackages.gitignore)
+- [ArchLinuxPackages.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/ArchLinuxPackages.gitignore)
   - **Arch Linux Packages** — система пакетов и управления зависимостями для Arch Linux.
-- [Autotools.gitignore](../../Basic/Autotools.gitignore)
+- [Autotools.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Autotools.gitignore)
   - **Autotools** — набор инструментов для конфигурации и сборки кроссплатформенных приложений на C/C++.
-- [Ballerina.gitignore](../../Basic/Ballerina.gitignore)
+- [Ballerina.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Ballerina.gitignore)
   - **Ballerina** — интеграционный язык для микросервисов и API с поддержкой облачной разработки.
-- [CakePHP.gitignore](../../Basic/CakePHP.gitignore)
+- [CakePHP.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/CakePHP.gitignore)
   - **CakePHP** — PHP-фреймворк для быстрого создания веб-приложений по паттерну MVC.
-- [CFWheels.gitignore](../../Basic/CFWheels.gitignore)
+- [CFWheels.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/CFWheels.gitignore)
   - **CFWheels** — фреймворк для веб-разработки на ColdFusion.
-- [ChefCookbook.gitignore](../../Basic/ChefCookbook.gitignore)
+- [ChefCookbook.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/ChefCookbook.gitignore)
   - **Chef Cookbook** — набор рецептов для автоматизации конфигурации и управления серверами.
-- [CMake.gitignore](../../Basic/CMake.gitignore)
+- [CMake.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/CMake.gitignore)
   - **CMake** — инструмент для кроссплатформенной сборки проектов и управления зависимостями.
-- [CodeIgniter.gitignore](../../Basic/CodeIgniter.gitignore)
+- [CodeIgniter.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/CodeIgniter.gitignore)
   - **CodeIgniter** — лёгкий PHP-фреймворк для быстрого веб-разработки.
-- [Composer.gitignore](../../Basic/Composer.gitignore)
+- [Composer.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Composer.gitignore)
   - **Composer** — менеджер зависимостей для PHP-проектов.
-- [Concrete5.gitignore](../../Basic/Concrete5.gitignore)
+- [Concrete5.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Concrete5.gitignore)
   - **Concrete5** — CMS для веб-сайтов с удобным визуальным редактированием.
-- [CraftCMS.gitignore](../../Basic/CraftCMS.gitignore)
+- [CraftCMS.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/CraftCMS.gitignore)
   - **CraftCMS** — современная CMS с акцентом на гибкость и разработку пользовательских сайтов.
-- [Drupal.gitignore](../../Basic/Drupal.gitignore)
+- [Drupal.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Drupal.gitignore)
   - **Drupal** — мощная CMS для сложных веб-проектов и корпоративных сайтов.
-- [Eagle.gitignore](../../Basic/Eagle.gitignore)
+- [Eagle.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Eagle.gitignore)
   - **Eagle** — инструмент для управления проектами электроники и PCB.
-- [EPiServer.gitignore](../../Basic/EPiServer.gitignore)
+- [EPiServer.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/EPiServer.gitignore)
   - **EPiServer** — платформа CMS и цифрового маркетинга для корпоративных сайтов.
-- [ExpressionEngine.gitignore](../../Basic/ExpressionEngine.gitignore)
+- [ExpressionEngine.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/ExpressionEngine.gitignore)
   - **ExpressionEngine** — гибкая CMS для построения веб-приложений и сайтов.
-- [ExtJs.gitignore](../../Basic/ExtJs.gitignore)
+- [ExtJs.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/ExtJs.gitignore)
   - **Ext JS** — JavaScript-фреймворк для создания интерактивных веб-приложений.
-- [Finale.gitignore](../../Basic/Finale.gitignore)
+- [Finale.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Finale.gitignore)
   - **Finale** — профессиональное программное обеспечение для нотной записи и композиции.
-- [FlaxEngine.gitignore](../../Basic/FlaxEngine.gitignore)
+- [FlaxEngine.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/FlaxEngine.gitignore)
   - **Flax Engine** — кроссплатформенный игровой движок для 3D-разработки.
-- [ForceDotCom.gitignore](../../Basic/ForceDotCom.gitignore)
+- [ForceDotCom.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/ForceDotCom.gitignore)
   - **Force.com** — платформа Salesforce для разработки облачных приложений.
-- [FuelPHP.gitignore](../../Basic/FuelPHP.gitignore)
+- [FuelPHP.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/FuelPHP.gitignore)
   - **FuelPHP** — PHP-фреймворк с поддержкой HMVC и современного подхода к веб-разработке.
-- [GitBook.gitignore](../../Basic/GitBook.gitignore)
+- [GitBook.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/GitBook.gitignore)
   - **GitBook** — инструмент для создания документации и электронных книг.
-- [GitHubPages.gitignore](../../Basic/GitHubPages.gitignore)
+- [GitHubPages.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/GitHubPages.gitignore)
   - **GitHub Pages** — сервис для хостинга статических сайтов прямо из репозиториев GitHub.
-- [Go.gitignore](../../Basic/Go.gitignore)
+- [Go.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Go.gitignore)
   - **Go (Golang)** — компилируемый язык от Google для высокопроизводительных приложений.
-- [Godot.gitignore](../../Basic/Godot.gitignore)
+- [Godot.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Godot.gitignore)
   - **Godot** — кроссплатформенный движок для 2D и 3D игр с открытым исходным кодом.
-- [Gradle.gitignore](../../Basic/Gradle.gitignore)
+- [Gradle.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Gradle.gitignore)
   - **Gradle** — инструмент сборки для JVM-проектов с поддержкой скриптов на Groovy и Kotlin.
-- [Grails.gitignore](../../Basic/Grails.gitignore)
+- [Grails.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Grails.gitignore)
   - **Grails** — веб-фреймворк для Groovy с упором на быструю разработку приложений.
-- [GWT.gitignore](../../Basic/GWT.gitignore)
+- [GWT.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/GWT.gitignore)
   - **GWT (Google Web Toolkit)** — фреймворк для разработки веб-приложений на Java с компиляцией в JavaScript.
-- [Haskell.gitignore](../../Basic/Haskell.gitignore)
+- [Haskell.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Haskell.gitignore)
   - **Haskell** — функциональный язык программирования с сильной статической типизацией.
-- [IAR.gitignore](../../Basic/IAR.gitignore)
+- [IAR.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/IAR.gitignore)
   - **IAR Embedded Workbench** — среда разработки для микроконтроллеров и встроенных систем.
-- [Gcov.gitignore](../../Basic/Gcov.gitignore)
+- [Gcov.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Gcov.gitignore)
   - **Gcov** — инструмент для анализа покрытия кода в проектах на C/C++.
-- [JBoss.gitignore](../../Basic/JBoss.gitignore)
+- [JBoss.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/JBoss.gitignore)
   - **JBoss** — сервер приложений Java EE для корпоративных решений.
-- [Jekyll.gitignore](../../Basic/Jekyll.gitignore)
+- [Jekyll.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Jekyll.gitignore)
   - **Jekyll** — статический генератор сайтов для блогов и документации, интегрированный с GitHub Pages.
-- [JENKINS_HOME.gitignore](../../Basic/JENKINS_HOME.gitignore)
+- [JENKINS_HOME.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/JENKINS_HOME.gitignore)
   - **Jenkins** — сервер автоматизации для CI/CD процессов.
-- [Joomla.gitignore](../../Basic/Joomla.gitignore)
+- [Joomla.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Joomla.gitignore)
   - **Joomla** — популярная CMS для веб-сайтов с модульной архитектурой.
-- [Laravel.gitignore](../../Basic/Laravel.gitignore)
+- [Laravel.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Laravel.gitignore)
   - **Laravel** — PHP-фреймворк для веб-разработки с акцентом на элегантный синтаксис и простоту.
-- [Leiningen.gitignore](../../Basic/Leiningen.gitignore)
+- [Leiningen.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Leiningen.gitignore)
   - **Leiningen** — инструмент сборки для проектов на Clojure.
-- [LemonStand.gitignore](../../Basic/LemonStand.gitignore)
+- [LemonStand.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/LemonStand.gitignore)
   - **LemonStand** — платформа для электронной коммерции на PHP.
-- [Lithium.gitignore](../../Basic/Lithium.gitignore)
+- [Lithium.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Lithium.gitignore)
   - **Lithium (Li3)** — PHP-фреймворк для веб-приложений с поддержкой тестирования и расширяемости.
-- [Magento.gitignore](../../Basic/Magento.gitignore)
+- [Magento.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Magento.gitignore)
   - **Magento** — платформа для интернет-магазинов с богатой функциональностью.
-- [Maven.gitignore](../../Basic/Maven.gitignore)
+- [Maven.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Maven.gitignore)
   - **Maven** — инструмент управления проектами и сборки для Java-проектов.
-- [MetaProgrammingSystem.gitignore](../../Basic/MetaProgrammingSystem.gitignore)
+- [MetaProgrammingSystem.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/MetaProgrammingSystem.gitignore)
   - **MetaProgrammingSystem (MPS)** — инструмент для создания языков программирования и DSL.
-- [Nanoc.gitignore](../../Basic/Nanoc.gitignore)
+- [Nanoc.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Nanoc.gitignore)
   - **Nanoc** — статический генератор сайтов на Ruby для блогов и документации.
-- [Node.gitignore](../../Basic/Node.gitignore)
+- [Node.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Node.gitignore)
   - **Node.js** — среда выполнения JavaScript вне браузера, часто используемая для серверных приложений.
-- [OpenCart.gitignore](../../Basic/OpenCart.gitignore)
+- [OpenCart.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/OpenCart.gitignore)
   - **OpenCart** — система для создания интернет-магазинов на PHP.
-- [OracleForms.gitignore](../../Basic/OracleForms.gitignore)
+- [OracleForms.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/OracleForms.gitignore)
   - **Oracle Forms** — инструмент для разработки корпоративных приложений с базами данных Oracle.
-- [Phalcon.gitignore](../../Basic/Phalcon.gitignore)
+- [Phalcon.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Phalcon.gitignore)
   - **Phalcon** — высокопроизводительный PHP-фреймворк с низким уровнем использования памяти.
-- [PlayFramework.gitignore](../../Basic/PlayFramework.gitignore)
+- [PlayFramework.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/PlayFramework.gitignore)
   - **Play Framework** — веб-фреймворк для Java и Scala с акцентом на реактивность и асинхронность.
-- [Plone.gitignore](../../Basic/Plone.gitignore)
+- [Plone.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Plone.gitignore)
   - **Plone** — CMS на Python с безопасной и расширяемой архитектурой.
-- [Prestashop.gitignore](../../Basic/Prestashop.gitignore)
+- [Prestashop.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Prestashop.gitignore)
   - **PrestaShop** — платформа для интернет-магазинов с открытым исходным кодом.
-- [Processing.gitignore](../../Basic/Processing.gitignore)
+- [Processing.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Processing.gitignore)
   - **Processing** — язык и среда для креативного программирования и визуализации.
-- [PureScript.gitignore](../../Basic/PureScript.gitignore)
+- [PureScript.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/PureScript.gitignore)
   - **PureScript** — функциональный язык программирования, компилируемый в JavaScript.
-- [Qooxdoo.gitignore](../../Basic/Qooxdoo.gitignore)
+- [Qooxdoo.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Qooxdoo.gitignore)
   - **Qooxdoo** — фреймворк для создания кроссплатформенных веб-приложений на JavaScript.
-- [Rails.gitignore](../../Basic/Rails.gitignore)
+- [Rails.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Rails.gitignore)
   - **Ruby on Rails** — веб-фреймворк на Ruby для быстрого создания приложений с MVC-архитектурой.
-- [RhodesRhomobile.gitignore](../../Basic/RhodesRhomobile.gitignore)
+- [RhodesRhomobile.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/RhodesRhomobile.gitignore)
   - **Rhodes / Rhomobile** — фреймворк для кроссплатформенной мобильной разработки на Ruby.
 
 ## Фреймворки и библиотеки
 
-- [ROS.gitignore](../../Basic/ROS.gitignore)
+- [ROS.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/ROS.gitignore)
   - **ROS (Robot Operating System)** — набор библиотек и инструментов для разработки робототехнических приложений.
-- [Sass.gitignore](../../Basic/Sass.gitignore)
+- [Sass.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Sass.gitignore)
   - **Sass** — препроцессор CSS для упрощения написания стилей с использованием переменных и вложенности.
-- [Scrivener.gitignore](../../Basic/Scrivener.gitignore)
+- [Scrivener.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Scrivener.gitignore)
   - **Scrivener** — фреймворк на Ruby для создания статических сайтов и блогов.
-- [SugarCRM.gitignore](../../Basic/SugarCRM.gitignore)
+- [SugarCRM.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/SugarCRM.gitignore)
   - **SugarCRM** — система управления взаимоотношениями с клиентами (CRM) с открытым исходным кодом.
-- [Symfony.gitignore](../../Basic/Symfony.gitignore)
+- [Symfony.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Symfony.gitignore)
   - **Symfony** — PHP-фреймворк для веб-приложений с компонентной архитектурой и расширяемостью.
-- [SymphonyCMS.gitignore](../../Basic/SymphonyCMS.gitignore)
+- [SymphonyCMS.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/SymphonyCMS.gitignore)
   - **Symphony CMS** — CMS на PHP с гибкой архитектурой для создания контентных сайтов.
-- [Textpattern.gitignore](../../Basic/Textpattern.gitignore)
+- [Textpattern.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Textpattern.gitignore)
   - **Textpattern** — легкая CMS на PHP для управления контентом и блогами.
-- [TurboGears2.gitignore](../../Basic/TurboGears2.gitignore)
+- [TurboGears2.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/TurboGears2.gitignore)
   - **TurboGears2** — Python-фреймворк для создания веб-приложений с MVC-архитектурой.
-- [WordPress.gitignore](../../Basic/WordPress.gitignore)
+- [WordPress.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/WordPress.gitignore)
   - **WordPress** — популярная CMS на PHP для блогов и веб-сайтов.
-- [Yii.gitignore](../../Basic/Yii.gitignore)
+- [Yii.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Yii.gitignore)
   - **Yii** — высокопроизводительный PHP-фреймворк для веб-приложений с поддержкой MVC.
-- [ZendFramework.gitignore](../../Basic/ZendFramework.gitignore)
+- [ZendFramework.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/ZendFramework.gitignore)
   - **Zend Framework** — PHP-фреймворк для создания корпоративных веб-приложений.
-- [Zephir.gitignore](../../Basic/Zephir.gitignore)
+- [Zephir.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Zephir.gitignore)
   - **Zephir** — язык программирования для написания расширений PHP с упрощением синтаксиса и повышением производительности.
 
 ## Игровые движки и графика
 
-- [KiCad.gitignore](../../Basic/KiCad.gitignore)
+- [KiCad.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/KiCad.gitignore)
   - **KiCad** — система для проектирования электронных схем и печатных плат.
-- [Processing.gitignore](../../Basic/Processing.gitignore)
+- [Processing.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Processing.gitignore)
   - **Processing** — язык и среда для креативного программирования и визуализации.
-- [Qt.gitignore](../../Basic/Qt.gitignore)
+- [Qt.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Qt.gitignore)
   - **Qt** — кроссплатформенный фреймворк для создания GUI и приложений на C++.
-- [Unity.gitignore](../../Basic/Unity.gitignore)
+- [Unity.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Unity.gitignore)
   - **Unity** — игровой движок для разработки 2D и 3D игр.
-- [UnrealEngine.gitignore](../../Basic/UnrealEngine.gitignore)
+- [UnrealEngine.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/UnrealEngine.gitignore)
   - **Unreal Engine** — игровой движок для AAA-игр и интерактивных приложений.
-- [SketchUp.gitignore](../../Basic/SketchUp.gitignore)
+- [SketchUp.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/SketchUp.gitignore)
   - **SketchUp** — программа для 3D-моделирования и архитектурного проектирования.
-- [VVVV.gitignore](../../Basic/VVVV.gitignore)
+- [VVVV.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/VVVV.gitignore)
   - **VVVV** — визуальное программирование для интерактивной графики и медиа-инсталляций.
 
 ## Системы и платформы
 
-- [Terraform.gitignore](../../Basic/Terraform.gitignore)
+- [Terraform.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Terraform.gitignore)
   - **Terraform** — инструмент для инфраструктуры как кода (IaC), управления облачными ресурсами.
-- [Typo3.gitignore](../../Basic/Typo3.gitignore)
+- [Typo3.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Typo3.gitignore)
   - **Typo3** — система управления контентом (CMS) для веб-сайтов корпоративного уровня.
-- [TwinCAT3.gitignore](../../Basic/TwinCAT3.gitignore)
+- [TwinCAT3.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/TwinCAT3.gitignore)
   - **TwinCAT3** — среда для автоматизации промышленных процессов и управления ПЛК.
-- [VisualStudio.gitignore](../../Basic/VisualStudio.gitignore)
+- [VisualStudio.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/VisualStudio.gitignore)
   - **Visual Studio** — интегрированная среда разработки (IDE) для .NET, C++, Python и других языков.
 
 ## Инструменты сборки и пакеты
 
-- [SCons.gitignore](../../Basic/SCons.gitignore)
+- [SCons.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/SCons.gitignore)
   - **SCons** — система автоматизации сборки проектов, альтернатива Make.
-- [SeamGen.gitignore](../../Basic/SeamGen.gitignore)
+- [SeamGen.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/SeamGen.gitignore)
   - **SeamGen** — инструмент для генерации кода и шаблонов для Java/JSF приложений.
-- [Waf.gitignore](../../Basic/Waf.gitignore)
+- [Waf.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Waf.gitignore)
   - **Waf** — система автоматизации сборки для C, C++ и Python проектов.
-- [VSCodePlugins.gitignore](../../Basic/VSCodePlugins.gitignore)
+- [VSCodePlugins.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/VSCodePlugins.gitignore)
   - **VSCode Plugins** — плагины и расширения для Visual Studio Code.
-- [Sdcc.gitignore](../../Basic/Sdcc.gitignore)
+- [Sdcc.gitignore](https://raw.githubusercontent.com/dvurechensky-docs/Gitignore/main/Basic/Sdcc.gitignore)
   - **SDCC** — Small Device C Compiler, компилятор для микроконтроллеров.

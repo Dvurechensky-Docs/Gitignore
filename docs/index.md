@@ -14,5 +14,6 @@ published: true
 ---
 
 - [Папка Basic 🎶 - `популярные`](categories/basic.md)
+- [Папка Global 💥 - `особенные`](categories/global.md)
 
 > 2025
