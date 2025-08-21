@@ -10,7 +10,7 @@
 можно начать со следующих ресурсов:
 
 - Глава [Ignoring Files][глава] книги [Pro Git][progit].
-- Статья [Ignoring Files][help] на сайте помощи Dvurechensky Git.
+- Статья [Ignoring Files][help] на сайте помощи Git.
 - Страница руководства [gitignore(5)][man].
 
 [man]: http://git-scm.com/docs/gitignore
