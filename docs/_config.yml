@@ -1,5 +1,5 @@
-title: Интернет
-description: Ccылки на API ресурсов по категориям
+title: Gitignore 🌟 и экскурсия по технологиям
+description: Список базовых .gitignore и расшифровка технологий к которым они предложены
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
